@@ -1,6 +1,6 @@
 {
   "name": "demo_vue",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -18,7 +18,6 @@
     "@popperjs/core": "^2.11.8",
     "@primevue/themes": "^4.5.4",
     "axios": "^1.15.2",
-    "bootstrap": "^5.3.8",
     "pinia": "^3.0.4",
     "primeflex": "^4.0.0",
     "primeicons": "^7.0.0",
