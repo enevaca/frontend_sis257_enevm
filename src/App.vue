@@ -1,11 +1,11 @@
 <script setup lang="ts">
 import { RouterView } from 'vue-router'
 import 'bootstrap/dist/css/bootstrap.css'
-import '@/assets/js/jquery.min.js'
+// import '@/assets/js/jquery.min.js'
 // import '@/assets/js/bootstrap.min.js'
 // import '@/assets/js/jquery.sticky.js'
 // import '@/assets/js/click-scroll.js'
-import '@/assets/js/custom.js'
+// import '@/assets/js/custom.js'
 import MainHeader from './components/MainHeader.vue'
 import MainFooter from './components/MainFooter.vue'
 </script>
