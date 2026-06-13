@@ -1,7 +1,8 @@
 <script setup lang="ts">
 import { RouterView } from 'vue-router'
 import '@/assets/js/jquery.min.js'
-import '@/assets/js/bootstrap.min.js'
+// import '@/assets/js/bootstrap.min.js'
+import 'bootstrap/dist/css/bootstrap.css'
 import '@/assets/js/jquery.sticky.js'
 import '@/assets/js/click-scroll.js'
 import '@/assets/js/custom.js'
@@ -18,7 +19,7 @@ import MainFooter from './components/MainFooter.vue'
 </template>
 
 <style>
-@import '@/assets/css/bootstrap.min.css';
+/* @import '@/assets/css/bootstrap.min.css'; */
 @import '@/assets/css/bootstrap-icons.css';
 @import '@/assets/css/templatemo-festava-live.css';
 </style>
