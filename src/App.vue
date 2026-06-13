@@ -17,8 +17,8 @@ import MainFooter from './components/MainFooter.vue'
   <MainFooter />
 </template>
 
-<style scoped>
-/* @import '@/assets/css/bootstrap.min.css'; */
-/* @import '@/assets/css/bootstrap-icons.css'; */
-/* @import '@/assets/css/templatemo-festava-live.css'; */
+<style>
+@import '@/assets/css/bootstrap.min.css';
+@import '@/assets/css/bootstrap-icons.css';
+@import '@/assets/css/templatemo-festava-live.css';
 </style>
