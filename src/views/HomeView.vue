@@ -220,7 +220,7 @@ onMounted(() => {
     <div class="video-overlay header-text">
       <div class="caption">
         <h6>Graduate School of Management</h6>
-        <h2><em>Your</em> Classroom</h2>
+        <h2><em>MUSIC</em> SIS257</h2>
         <div class="main-button">
           <div class="scroll-to-section">
             <a href="#" @click.prevent="irA('section2')">Discover more</a>
